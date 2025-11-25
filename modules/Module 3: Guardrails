@@ -1,0 +1,4 @@
+Flag missing/empty sections.
+Flag sections <50 words.
+Apply hallucination mitigation (summarize only what exists).
+Apply long-paper chunking strategies (split into manageable parts if >1000 words per section).
