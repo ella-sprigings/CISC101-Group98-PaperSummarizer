@@ -1,4 +1,4 @@
-refined module 3
+Change log: changed to refine module 3 and include new requirments to refine module 3
 New Requirement B: Strengthen Evidence & Hallucination Guardrails (Module 03)
 
 The summarizer should more clearly respect the “only use what’s in the paper” rule and expose that behavior.
