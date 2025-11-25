@@ -1,0 +1,4 @@
+Module 1: Intake & Setup
+Normalize section names (e.g., “Intro” → “Introduction”).
+Detect missing or unusually short sections (<50 words).
+Prepare metadata for processing.
