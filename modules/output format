@@ -1,0 +1,33 @@
+📑 Output Format
+All outputs must follow this structure:
+# Paper Summary
+<200-word overview>
+
+# Section-by-Section Table
+| Section | Summary |
+|---------|---------|
+| Intro   | ...     |
+| Methods | ...     |
+| Results | ...     |
+| ...     | ...     |
+
+# Expert Summary
+<technical summary>
+
+# Lay Summary
+<accessible summary>
+
+# Mini-Glossary
+- Term A: definition
+- Term B: definition
+
+# Key Contributions
+- Contribution 1
+- Contribution 2
+
+# Citations
+[List of extracted citations]
+
+# Checks & Warnings
+- Missing sections: ...
+- Sections under 50 words: ...
