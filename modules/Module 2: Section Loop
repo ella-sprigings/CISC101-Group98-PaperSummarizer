@@ -1,4 +1,4 @@
-updated module 2- section loop
+Change log:updated module 2- section loop to include further requirments for the modules
 New Requirement A: Add “Summary Level” Modes (Module 02)  The summarizer should support two summary levels for each section:
 
 summary_level = "short"
